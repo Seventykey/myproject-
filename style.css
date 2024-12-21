@@ -1,0 +1,242 @@
+body{
+  background="img/фон.jpg";
+  line-height: 1.5;
+  font-size: 18px;
+}
+.wrapper{
+  width:1500px;
+
+  height: 3000px;
+
+}
+
+
+/*MB===============================================================================*/
+.header {
+  width:auto;
+  padding: 20px;
+  margin-bottom: : 10px;
+  height: auto;
+
+  border-radius: 10px;
+}
+.img1{
+  display: block;
+  height:100px;
+  width: 100px;
+  border-radius: 50%;
+
+
+  }
+  .img5{
+    display: block;
+    height:400px;
+    width: 400px;
+    border-radius: 50%;
+  }
+}
+.name-MB{
+  font-size: 50px;
+  margin-block-start: 1px;
+  margin-block-end: 1px;
+}
+.text2{
+  font-size: 50px;
+  color: black;
+  margin-block-start: 1px;
+  margin-block-end: 1px;
+  font-style: italic;
+}
+/*==================================================================================*/
+.content{
+display: block;
+width: auto;
+height: 2100px;
+
+}
+.image1{
+
+  width: 745px;
+  height: 400px;
+  float: right;
+}
+.text3{
+
+  width: 400px;
+  height: 400px;
+  position: relative;
+  left: 350px;
+}
+.img2{
+  display: block;
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+}
+.T3{
+  font-size: 40px;
+  font-style: oblique;
+
+
+}
+.text4{
+
+  width: 1000px;
+  height: 150px;
+  position: relative;
+  left: 250px;
+}
+.T4{
+  font-size: 30px;
+font-style: oblique;
+}
+.img3{
+  width: 1000px;
+  height: 300px;
+  position: relative;
+  left: 250px;
+}
+.text5{
+
+  width: 1000px;
+  height: 75px;
+  position: relative;
+  left: 250px;
+}
+.T5{
+  font-size: 30px;
+  font-style: oblique;
+}
+.img4{
+  width: 1000px;
+  height: 300px;
+  position: relative;
+  left: 250px;
+}
+.text6{
+
+  width: 1000px;
+  height: 75px;
+  position: relative;
+  left: 250px;
+}
+.text7{
+
+  width: 800px;
+  height: 75px;
+  position: relative;
+  left: 350px;
+}
+.T6{
+  text-decoration: underline;
+}
+.T7{
+  font-size: 30px;
+  font-style: oblique;
+}
+.modal{
+
+    width: 400px;
+    height: 550px;
+    position: relative;
+    left: 500px;
+  /*  border: 1px solid gray;*/
+}
+.form{
+  width: 250px;
+  height: 400px;
+  position: relative;
+  left: px;
+  /*border: 1px solid gray;*/
+}
+.text9{
+  position: relative;
+  left: 70px;
+}
+
+
+
+
+/*=================================================================================*/
+.flooter{
+
+  width: 300px;
+  height: 550px;
+  position: relative;
+  left: 550px;
+}
+.T8{
+  font-size: 25px;
+}
+.T9{
+  font-size: 25px;
+}
+.V{
+width: 50px;
+height: 50px;
+position: relative;
+
+
+}
+.V{float: right;; width: }
+.P{
+
+  width: 33px;
+  height: 25px;
+  position: relative;
+  float: right;
+}
+.T{
+
+  width: 50px;
+  height: 50px;
+  position: relative;
+  float: right;
+
+}
+.PP{
+
+  width: 33px;
+  height: 25px;
+  position: relative;
+  float: right;
+}
+.I{
+
+  width: 50px;
+  height: 50px;
+  position: relative;
+  float: right;
+  margin-left: calc (75px);
+}
+.F{
+
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
+.vk{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.telegram{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.instagram{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.facebook{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.text8{
+  font-size: 50px;
+  position: relative;
+  top: 50px;
+}
